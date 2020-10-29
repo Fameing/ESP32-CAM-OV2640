@@ -4,9 +4,7 @@ type: lib
 version: 2.0.0
 
 sources:
-  - conversions
-  - driver
-  - sensors
+  - src
 
 libs:
   - origin: https://github.com/mongoose-os-libs/arduino-compat
